@@ -2,14 +2,12 @@
 
 <p align="center">
   <em>B.Tech CSE (AI/ML) · IIIT Nagpur · Class of 2026</em><br/>
-  Building things that turn LLMs into actual products.
+  Building POCs turning LLMs into actual products.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/abhay-tiwari-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:abhayt120204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/u/abhayt120204/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
-  <a href="https://www.codechef.com/users/abhayt120204"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"></a>
 </p>
 
 ---
@@ -26,14 +24,13 @@ I work at the intersection of **LLMs, agents, and backend systems** — building
 ### 🛠 Stack
 
 ```
-Languages    →  Python · Go · SQL · C++
+Languages    →  Python · Go(Basic) · SQL · C++
 LLM / AI     →  LangChain · LangGraph · Advanced RAG · Prompt Engineering
-                Agentic AI · Vector DBs · Embeddings · Fine-tuning basics
+                Agentic AI · Vector DBs · Embeddings · Fine-tuning
 ML tooling   →  Pandas · NumPy · Plotly · Hugging Face · Streamlit · Gradio
 Infra        →  Docker · Kubernetes (Helm) · AWS (S3, Lambda) · gRPC / Protobuf
                 Redis · Kafka · GitLab CI/CD
 Observability →  LangSmith · Datadog · Grafana · Metabase
-Providers    →  Groq · Gemini · OpenAI · Azure OpenAI · Bedrock
 ```
 
 ---
